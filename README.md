@@ -8,7 +8,7 @@ That's a app used in case you have a list to remember.<br>
 <img src="images/img1.jpg" width=200 height=300>
 <br>
 file should be in format:<br>
-<img src="images/img2.jpg" width=200 height=300>
+<img src="images/img2.jpg" width=200 height=150>
 <br>
 question and answers:
 <br>
