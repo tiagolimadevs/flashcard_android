@@ -15,6 +15,7 @@ question and answers:
 <img src="images/img3.jpg" width=200 height=300>
 <br>
 When you completed the list:
+<br>
 <img src="images/img4.jpg" width=200 height=300>
 <br>
 </h1>
