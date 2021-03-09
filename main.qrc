@@ -1,0 +1,23 @@
+<!DOCTYPE RCC>
+<RCC>
+	<qresource prefix="/">
+		<file>./qml/main.qml</file>
+		<file>./qml/Question.qml</file>
+		<file>./qml/Answers.qml</file>
+		<file>./qml/Form.qml</file>
+		<file>./qml/Button.qml</file>
+		<file>./qml/Menu.qml</file>
+		<file>./qml/Toolbar.qml</file>
+		<file>./qml/Edit.qml</file>
+		<file>./qml/Select.qml</file>
+		<file>./qml/WinAnimation.qml</file>
+		<file>./qml/ProgressBar.qml</file>
+
+	</qresource>
+	<qresource prefix="/images">
+                <file alias="fireworks">./icons/fireworks.png</file>
+                <file alias="fireworks2">./icons/fireworks2.png</file>
+		<file alias="logo">./icons/logo.png</file>
+		<file alias="menu">./icons/menu.png</file>
+        </qresource>
+</RCC>
